@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Joe and Mak's Recipes
+description: Joe and Mak's collection of recipes.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://www.thechases.me
+
+color_scheme: dark
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/avatar.jpg"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/avatar.jpg"
+
+
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Site Repo: https://github.com/jtchase08/cookbook
