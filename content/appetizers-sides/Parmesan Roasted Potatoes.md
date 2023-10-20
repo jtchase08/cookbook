@@ -25,7 +25,4 @@ Directions
   5. Roast the potatoes in the oven for 30 minutes then give them a good stir. Return the potatoes to the oven and roast for an additional 5-10 minutes, or until well browned.
   6. Season the potatoes with another pinch of salt, if desired, then garnish with parsley and serve.
 
-_From <_[
-_https://www.budgetbytes.com/wprm_print/33604_](https://www.budgetbytes.com/wprm_print/33604)
-_> _
-
+<https://www.budgetbytes.com/wprm_print/33604>

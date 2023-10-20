@@ -29,9 +29,4 @@ Directions
   6. Cook for 5-10 minutes
   7. Drizzle dipping mixture and serve!
 
-_From <_[
-_https://www.simplyrecipes.com/recipes/grilled_chicken_nachos_in_foil/_](https://www.simplyrecipes.com/recipes/grilled_chicken_nachos_in_foil/)
-_>_
-
-#madeit #nachos #quick
-
+<https://www.simplyrecipes.com/recipes/grilled_chicken_nachos_in_foil/>

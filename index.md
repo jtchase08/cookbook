@@ -23,6 +23,6 @@ Recipes categorized as follows. You can also find this list in the sidebar.
 
 Most of the recipes in this cookbook weren't created by us. When that's the case, a link to the original recipe or credit will be provided. This collection of recipes is simply a way for us to share recipes with friends in a way that's convenient for them.
 
-That being said, the recipes here may be modified versions of their source. We change them for the better (in our opinion) as we learn more about cooking.
+That being said, the recipes here may be modified versions of their source. We change them for the better (in our opinion) as we learn more about and get better at cooking.
 
 <img src="https://files.catbox.moe/a7qva1.jpg" alt="avatar" width="300" height="auto">

@@ -24,6 +24,3 @@ Directions
   5. Place on a paper towel and allow to slightly cool before serving.
 
 <https://kitchenswagger.com/buffalo-chicken-rangoons-recipe/>
-
-#chicken #madeit
-

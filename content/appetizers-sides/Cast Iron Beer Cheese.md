@@ -25,8 +25,4 @@ Directions (Stovetop)
   1. In a large cast-iron skillet, add cheddar, cream cheese, garlic, chives, and beer and season with salt and cayenne. Cover with lid, bring to a simmer (med/high)
   2. Reduce heat and keep at a simmer until melty, about 15 minutes. Stir occasionally.
 
-https://www.delish.com/cooking/recipe-ideas/recipes/a53986/skillet-beer-
-cheese-recipe/
-
-#madeit #campfriendly #cheese #dip
-
+<https://www.delish.com/cooking/recipe-ideas/recipes/a53986/skillet-beer-cheese-recipe/>

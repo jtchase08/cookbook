@@ -26,8 +26,4 @@ Directions
   4. Bake for 15 minutes, or until the meatballs reach an internal temperature of 165 degrees F on an instant-read thermometer. As an alternate way to check, a meatball in the center of the baking sheet should be fully cooked through when cut in half.
   5. While the meatballs cook, warm the sauce and any other items you’d like to serve them with (pasta, hoagie buns, 1rice, etc.). Serve the meatballs hot, topped with the sauce, cheese, herbs, and any other additions.
 
-_From <_[ _https://www.wellplated.com/baked-turkey-
-meatballs/_](https://www.wellplated.com/baked-turkey-meatballs/) _> _
-
-#madeit
-
+<https://www.wellplated.com/baked-turkey-meatballs/>

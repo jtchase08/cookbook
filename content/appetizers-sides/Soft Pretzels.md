@@ -31,6 +31,3 @@ Directions
   8. Remove from the oven and serve warm with spicy nacho cheese sauce. Pretzels may be stored in an airtight container or zipped top bag for up to 3 days (they lose a little softness).
 
 <https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/>
-
-#madeit
-
