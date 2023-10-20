@@ -4,15 +4,13 @@ theme: just-the-docs
 
 url: https://www.thechases.me
 
-color_scheme: dark
+color_scheme: dracula
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/avatar.jpg"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/avatar.jpg"
-
-
 
 aux_links:
   Site Repo: https://github.com/jtchase08/cookbook
