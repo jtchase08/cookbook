@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Soups, Salads
+title: Desserts
 has_children: true
 ---

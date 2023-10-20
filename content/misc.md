@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Soups, Salads
+title: Misc
 has_children: true
 ---
