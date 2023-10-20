@@ -1,8 +1,8 @@
 **[TO THECHASES.ME](https://www.thechases.me)**
-</br>
-**[TO THE COOKBOOK](https://www.thechases.me/cookbook)**
 
 # Joe and Makayla Chase's Recipe collection.
+
+**[THE COOKBOOK](https://www.thechases.me/cookbook)**
 
 ## Info
 
@@ -19,4 +19,4 @@ Recipes categorized as follows. You can also find this list in the sidebar.
 
 Most of the recipes in this cookbook weren't created by us. When that's the case, a link to the original recipe or credit will be provided. This collection of recipes is simply a way for us to share recipes with friends in a way that's convenient for them.
 
-<img src="/assets/images/avatar.jpg" alt="avatar" width="300" height="auto">
+<img src="https://files.catbox.moe/a7qva1.jpg" alt="avatar" width="300" height="auto">
