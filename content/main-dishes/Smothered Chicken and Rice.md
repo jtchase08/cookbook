@@ -1,4 +1,11 @@
+---
+layout: default
+title: Smothered Chicken and Rice
+parent: Main Dishes
+---
+
 November 8, 2023
+
 #### Ingredients
 - 1½ lbs boneless skinless chicken thighs
 - ½ tsp seasoned salt
