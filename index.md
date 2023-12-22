@@ -25,4 +25,4 @@ Most of the recipes in this cookbook weren't created by us. When that's the case
 
 That being said, the recipes here may be modified versions of their source. We change them for the better (in our opinion) as we learn more about and get better at cooking.
 
-<img src="https://files.catbox.moe/a7qva1.jpg" alt="avatar" width="300" height="auto">
+<img src="https://files.catbox.moe/tbs6n2.jpg" alt="avatar" width="300" height="auto">
