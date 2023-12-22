@@ -1,9 +1,4 @@
----
-layout: default
-title: Hamburger Helper Cheeseburger Mac Copycat
-parent: Main Dishes
----
-# Hamburger Helper Cheeseburger Mac Copycat
+## aka Hamburger Helper Cheeseburger Mac Copycat
 
 Ingredients
   * 1 pound ground beef
@@ -24,5 +19,6 @@ Directions
   2. Sprinkle the cornstarch, paprika, garlic powder, onion powder, salt, sugar, and pepper over the browned meat and stir well to evenly distribute the spices. Add the hot water, milk, and pasta, then bring to a boil. Cover with a lid, reduce heat and simmer for 8-11 minutes, or until the pasta is al dente.
   3. Sprinkle the grated cheddar cheese over the cooked pasta and stir until melted into the sauce. Remove from the heat, and let stand for a few minutes until the sauce thickens a bit. Garnish with freshly chopped parsley, if desired, then serve.
 
-<https://houseofnasheats.com/homemade-hamburger-helper-cheeseburger-pasta-skillet/>
+<https://houseofnasheats.com/homemade-hamburger-helper-cheeseburger-pasta-
+skillet/>
 

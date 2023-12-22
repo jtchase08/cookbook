@@ -1,9 +1,4 @@
----
-layout: default
-title: Baked Mac and Cheese
-parent: Main Dishes
----
-# Baked Mac and Cheese
+## aka Baked Mac and Cheese
 
 Ingredients
   * 2-3 cups of cooked pasta
@@ -18,3 +13,6 @@ Directions
   5. Use knife to push back pasta on edges, and add milk until you can see it all around the pan.
   6. Cover with tinfoil, and cook for 40 minutes
   7. Remove tinfoil, and cook for an additional 5 minutes for a crispier top. 
+
+#makfave #pasta
+

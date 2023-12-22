@@ -1,9 +1,4 @@
----
-layout: default
-title: Silky Stovetop Mac and Cheese
-parent: Main Dishes
----
-# Silky Stovetop Mac and Cheese
+## aka Silky Stovetop Mac and Cheese
 
 RECIPE SERVES 1 AS MAIN DISH, 2-4 AS SIDE DISH
 
@@ -20,6 +15,9 @@ Directions
   3. In a cold pot, combine the milk (start with the smaller measurement above because you can add more later), cheeses, and butter
   4. Start melting on medium-high heat, **stirring constantly**.
     1. Once the sauce is totally melted and simmering, consider adding more milk if the sauce looks too thick, remembering it will thicken as it cools to eating temperature.
-  5. Combine cheese sauce and pasta. Salt to taste, and enjoy
+  5. Combine cheese sauce and pasta. Salt and Pepper to taste, and enjoy
 
-<https://www.youtube.com/watch?v=tSfHVTx1WMk>
+[Silky stovetop mac & cheese with crunchy topping](https://www.youtube.com/watch?v=tSfHVTx1WMk)
+
+#pasta #madeit
+

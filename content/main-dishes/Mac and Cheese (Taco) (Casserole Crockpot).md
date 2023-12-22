@@ -1,9 +1,4 @@
----
-layout: default
-title: Crock Pot Taco Mac Casserole
-parent: Main Dishes
----
-# Crock Pot Taco Mac Casserole
+## aka Taco Mac Casserole
 
 Ingredients
   * 2 cups uncooked macaroni
@@ -22,3 +17,6 @@ Directions
   5. Cover and cook on low for 3-4 hours, stirring occasionally
 
 <https://www.recipesthatcrock.com/crock-pot-taco-mac-casserole/>
+
+#crockpot #joefav #macaroni #madeit
+
