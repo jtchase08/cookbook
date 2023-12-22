@@ -1,3 +1,11 @@
+---
+layout: default
+title: Mac and Cheese (Instant Pot)
+parent: Main Dishes
+---
+
+# Mac and Cheese (Instant Pot)
+
 Serves 4
 
 Ingredients

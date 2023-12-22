@@ -1,4 +1,10 @@
-## aka Baked Mac and Cheese
+---
+layout: default
+title: Mac and Cheese (Baked)
+parent: Main Dishes
+---
+
+# aka Baked Mac and Cheese
 
 Ingredients
   * 2-3 cups of cooked pasta
