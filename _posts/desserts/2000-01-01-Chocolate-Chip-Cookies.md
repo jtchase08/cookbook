@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Chocolate Chip Cookies
-parent: Desserts
+category: desserts
 ---
-# Chocolate Chip Cookies
 
 If time permits, make dough, wrap in plastic wrap, and refrigerate for at least 24 hours but no more than 72 hours. This allows the dough to “marinate” and makes the cookies thicker, chewier, and more flavorful. Let dough sit at room temperature just until it is soft enough to scoop.
 

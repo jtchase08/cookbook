@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Spaghetti Sauce
-parent: Misc
+category: misc
 ---
-# Spaghetti Sauce
 
 Ingredients
   * 1 pound ground beef

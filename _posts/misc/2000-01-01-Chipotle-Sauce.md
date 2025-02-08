@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Chipotle Sauce
-parent: Misc
+category: misc
 ---
-# Chipotle Sauce
 
 Makes 1.5 cups
 

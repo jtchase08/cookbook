@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Dirt Pudding
-parent: Desserts
+category: desserts
 ---
-# Dirt Pudding
 
 Ingredients
   * 1 party size* package of Oreos, crushed

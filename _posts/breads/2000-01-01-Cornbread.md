@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Cornbread
-parent: Breads
+category: breads
 ---
-# Cornbread
 
 Ingredients
   * 1 cup yellow cornmeal

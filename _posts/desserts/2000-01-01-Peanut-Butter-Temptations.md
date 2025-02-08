@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Peanut Butter Temptations
-parent: Desserts
+category: desserts
 ---
-# Peanut Butter Temptations
 
 Ingredients
   * 40 Mini Peanut Butter Cups

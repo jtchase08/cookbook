@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 title: Blackberry Cobbler
-parent: Desserts
+category: desserts
 ---
-# Blackberry Cobbler
 
-ngredients
+Ingredients
   * 2 cups sugar
   * 2 cups all-purpose flour
   * 4 teaspoons baking powder

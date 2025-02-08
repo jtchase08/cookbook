@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Garlic Bread
-parent: Breads
+category: breads
 ---
-# Garlic Bread
 
 Ingredients
   * 1 loaf French Bread
