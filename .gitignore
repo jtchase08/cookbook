@@ -1,8 +1,7 @@
-_site/*
-_drafts/
-/bin/*
+*.gem
 .bundle
+.jekyll-cache
 .sass-cache
-.jekyll-metadata
-.envrc
+_site
+vendor
 Gemfile.lock

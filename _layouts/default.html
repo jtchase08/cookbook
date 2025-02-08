@@ -1,134 +1,21 @@
-{%- assign page_url = page.url | remove_first: "index.html" | absolute_url -%}
-{%- assign current_page = page.url | remove_first: "index.html" | relative_url -%}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" data-color-mode="light" data-env="{{ jekyll.environment }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
-
-    <link href="https://github.com/itspriddle" rel="me">
-    <link rel="author" type="text/plain" href="{{ "/humans.txt" | absolute_url }}">
-    <link rel="canonical" href="{{ page_url }}">
-    <meta property="og:url" content="{{ page_url }}" />
-    <meta property="og:site_name" content="{{ site.title | smartify }}" />
-
-    <link rel="stylesheet" href="{{ "/stylesheets/main.css" | relative_url }}?{% include helpers/asset-hash.html %}">
-
-    <title>{% include helpers/page-title.html %}</title>
-
-    <meta property="og:title" content="{% include helpers/page-title.html %}" />
-    <meta name="author" content="{{ site.author.name }}" />
-    <meta property="og:locale" content="en" />
-    <meta property="og:type" content="website" />
-  </head>
-
-  <body>
-    {% unless page.recipe or page.cocktail %}
-      <header class="site-header">
-        <div class="wrapper">
-          <a class="site-title" href="/" title="recipes.priddle.xyz">
-            recipes.priddle.xyz
-          </a>
-
-          <nav class="site-nav" style="text-transform: lowercase">
-            <!--
-            <a class="page-link{% if current_page == "/foo/" %} page-link-active{% endif %}" href="{{ "/foo/" | relative_url }}">Foo</a> /
-            -->
-          </nav>
-        </div>
-      </header>
-    {% endunless %}
-
+<html lang="{{ page.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      <div class="w">
         {{ content }}
       </div>
     </main>
 
-    {% if page.recipe or page.cocktail %}
-      <footer class="site-footer">
-        <div class="wrapper">
-          <div class="footer-col-wrapper">
-            <div class="footer-col">
-              <a href="{{ page.url | replace: ".html", ".txt" }}">Plaintext</a> |
-              <a href="{{ page.url | replace: ".html", ".pdf" }}">PDF</a> |
-              <a href="/">Home</a>
-              <!--
-              <a href="/" title="{{ site.title }}">{{ site.title }}</a>
-              by <span class="color-mode-toggle">{{ site.author.name }}</span>
-              -->
-            </div>
-          </div>
-        </div>
-      </footer>
+    {%-if site.goat_counter and jekyll.environment == "production"-%}
+      {%-include goat_counter.html-%}
+    {%-endif-%}
+
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
+      {% endfor %}
     {% endif %}
-
-    <script>
-      const ColorScheme = {
-        currentMode: () => {
-          return document.documentElement.getAttribute('data-color-mode');
-        },
-        userPrefersDark: () => {
-          return window.matchMedia('(prefers-color-scheme: dark)');
-        },
-        setMode: (mode) => {
-          document.documentElement.setAttribute('data-color-mode', mode);
-
-          localStorage.setItem('color-mode', mode);
-        },
-        toggleMode: () => {
-          const currentMode = ColorScheme.currentMode();
-          const nextMode = currentMode === 'dark' ? 'light' : 'dark';
-          ColorScheme.setMode(nextMode);
-        },
-        hotkeyHandler: (e) => {
-          // ctrl-i to toggle
-          if (e.ctrlKey && e.which == 73) {
-            ColorScheme.toggleMode();
-          }
-
-          // ctrl-shift-i to set to auto
-          //if (e.ctrlKey && e.shiftKey && e.which == 73) {
-          //  ColorScheme.setMode();
-          //}
-        },
-        toggleColorBtns: () => {
-          return document.querySelectorAll('.color-mode-toggle');
-        },
-        init: () => {
-          if (
-            localStorage.getItem('color-mode') === 'dark' ||
-            (ColorScheme.userPrefersDark().matches &&
-              !localStorage.getItem('color-mode'))
-          ) {
-            ColorScheme.setMode('dark');
-          } else {
-            ColorScheme.setMode('light');
-          }
-
-          ColorScheme.userPrefersDark().addEventListener("change", (e) => {
-            if (localStorage.getItem('color-mode')) {
-              return;
-            }
-
-            if (e.matches) {
-              ColorScheme.setMode('dark');
-            } else {
-              ColorScheme.setMode('light');
-            }
-          });
-
-          document.addEventListener("keyup", ColorScheme.hotkeyHandler, false);
-
-          ColorScheme.toggleColorBtns().forEach((btn) => {
-            btn.addEventListener("click", ColorScheme.toggleMode, false);
-          });
-        }
-      };
-
-      ColorScheme.init();
-
-    </script>
   </body>
 </html>
