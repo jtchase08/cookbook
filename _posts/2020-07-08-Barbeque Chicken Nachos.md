@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barbeque Chicken Nachos
-which_category: apps-sides
+which_category: appssides
 ---
 # Barbeque Chicken Nachos
 
