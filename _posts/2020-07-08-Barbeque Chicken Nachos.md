@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Barbeque Chicken Nachos
 which_category: appssides
 ---
