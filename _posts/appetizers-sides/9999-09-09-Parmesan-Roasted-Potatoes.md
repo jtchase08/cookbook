@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Parmesan Roasted Potatoes
-which_category: apps-sides
+category: apps-sides
 ---
-# Parmesan Roasted Potatoes
 
 Ingredients
 

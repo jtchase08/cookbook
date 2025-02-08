@@ -8,3 +8,23 @@ entries:
   - title: appetizers, sides
     post_list:
       category: apps-sides
+
+  - title: breads
+    post_list:
+      category: breads
+
+  - title: desserts
+    post_list:
+      category: desserts
+
+  - title: main dishes
+    post_list:
+      category: main
+
+  - title: misc
+    post_list:
+      category: misc
+
+  - title: soups, salads
+    post_list:
+      category: soups-salads

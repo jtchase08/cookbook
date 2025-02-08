@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Crispy Oven Fries
-which_category: apps-sides
+category: apps-sides
 ---
-# Crispy Oven Fries
 
 Ingredients
 

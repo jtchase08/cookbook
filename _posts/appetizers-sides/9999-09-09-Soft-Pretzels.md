@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Soft Pretzels
-which_category: apps-sides
+category: apps-sides
 ---
-# Soft Pretzels
 
 Ingredients
 

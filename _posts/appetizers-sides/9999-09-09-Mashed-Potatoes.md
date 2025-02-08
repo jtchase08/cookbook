@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
 title: Mashed Potatoes
-which_category: apps-sides
+category: apps-sides
 ---
-# Mashed Potatoes
-
-November 11, 2023
 
 Ingredients
 * 5lb red potatoes

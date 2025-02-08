@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Buffalo Chicken Rangoons
-which_category: apps-sides
+category: apps-sides
 ---
-# Buffalo Chicken Rangoons
 
 Ingredients
 

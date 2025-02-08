@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Cast Iron Beer Cheese
-which_category: apps-sides
+category: apps-sides
 ---
-# Cast Iron Beer Cheese
 
 Ingredients
 
