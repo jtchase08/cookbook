@@ -17,7 +17,7 @@ permissions:
 on:
   push:
     branches:
-      - master
+      - main
 
 # Use Ruby 3.2 in all jobs
 env:
