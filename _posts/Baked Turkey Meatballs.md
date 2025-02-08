@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baked Turkey Meatballs
-which_category: apps-sides
+category: apps-sides
 ---
 # Baked Turkey Meatballs
 
