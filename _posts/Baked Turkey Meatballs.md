@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Baked Turkey Meatballs
 category: apps-sides
 ---
