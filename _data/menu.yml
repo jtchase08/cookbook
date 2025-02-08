@@ -12,6 +12,9 @@ entries:
   - title: appetizers, sides
     post_list:
       category: apps-sides
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
   - title: posts by category
     post_list:
