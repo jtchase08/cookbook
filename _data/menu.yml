@@ -11,7 +11,7 @@ entries:
 
   - title: appetizers, sides
     post_list:
-      category: apps-sides
+      category: appssides
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html

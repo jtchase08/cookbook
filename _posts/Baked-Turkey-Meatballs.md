@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Baked Turkey Meatballs"
-category: apps-sides
+category: appssides
 ---
+
 # Baked Turkey Meatballs
 
 Ingredients
