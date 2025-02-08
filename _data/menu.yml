@@ -6,30 +6,7 @@ entries:
     entries:
       - title: to thechases.me
         url: https://www.thechases.me
-      - title: Joe and Makayla Chase's Recipe collection.
-      - title: Most of the recipes in this cookbook weren't created by us. When that's the case, a link to the original recipe or credit will be provided. This collection of recipes is simply a way for us to share recipes with friends in a way that's convenient for them.
 
   - title: appetizers, sides
     post_list:
       category: apps-sides
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
