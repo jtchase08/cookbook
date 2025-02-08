@@ -1,9 +1,15 @@
 source "https://rubygems.org"
-gemspec
 
-gem "jekyll-github-metadata", ">= 2.15"
+gem "jekyll", "~> 4.3.2"
+gem "jekyll-feed"
+gem "jekyll-gist"
+gem "jekyll-github-metadata"
+gem "jekyll-redirect-from"
+gem "jekyll-default-layout"
+gem "jekyll-titles-from-headings"
+gem "jekyll-optional-front-matter"
+gem "jekyll-sitemap"
+gem "jemoji"
 
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-sitemap", group: :jekyll_plugins
-
-gem "html-proofer", "~> 5.0", :group => :development
+gem "prawn"
+gem "matrix"
