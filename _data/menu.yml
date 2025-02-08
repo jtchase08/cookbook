@@ -2,10 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: main
-    entries:
-      - title: to thechases.me
-        url: https://www.thechases.me
+  - title: thechases.me
+    url: https://www.thechases.me        
 
   - title: appetizers, sides
     post_list:
