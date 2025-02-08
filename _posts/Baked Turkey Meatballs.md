@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baked Turkey Meatballs
+title: "Baked Turkey Meatballs"
 category: apps-sides
 ---
 # Baked Turkey Meatballs
