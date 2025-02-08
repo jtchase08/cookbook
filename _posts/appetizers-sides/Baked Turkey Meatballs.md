@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baked Turkey Meatballs
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Baked Turkey Meatballs
 

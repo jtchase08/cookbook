@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crispy Oven Fries
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Crispy Oven Fries
 

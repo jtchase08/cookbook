@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barbeque Chicken Nachos
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Barbeque Chicken Nachos
 

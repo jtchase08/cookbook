@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mashed Potatoes
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Mashed Potatoes
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parmesan Roasted Potatoes
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Parmesan Roasted Potatoes
 

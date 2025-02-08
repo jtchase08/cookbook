@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cast Iron Beer Cheese
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Cast Iron Beer Cheese
 

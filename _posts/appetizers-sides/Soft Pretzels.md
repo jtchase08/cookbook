@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soft Pretzels
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Soft Pretzels
 

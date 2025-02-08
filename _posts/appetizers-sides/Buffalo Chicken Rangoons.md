@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buffalo Chicken Rangoons
-parent: Appetizers, Sides
+which_category: apps-sides
 ---
 # Buffalo Chicken Rangoons
 
