@@ -4,7 +4,7 @@ title: Slow Cooker Chili
 parent: Main Dishes
 ---
 
-# Slow Cooker Chili
+# Slow Cooker Chili 
 
 SERVES 8
 
