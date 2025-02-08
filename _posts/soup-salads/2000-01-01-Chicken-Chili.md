@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Chicken Chili
-parent: Soups, Salads
+category: soups-salads
 ---
-# Chicken Chili
 
 Ingredients
   * 2 15oz cans pinto beans (I used black beans) rinsed and drained

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Rosemary Garlic White Bean Soup
-parent: Soups, Salads
+category: soups-salads
 ---
-# Rosemary Garlic White Bean Soup
 
 Ingredients (makes 5 cups of soup)
   * 2 tbsp olive oil

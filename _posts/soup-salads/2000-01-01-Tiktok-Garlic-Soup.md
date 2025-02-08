@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: page
 title: Garlic Soup
-parent: Soups, Salads
+category: soups-salads
 ---
-# Garlic Soup
 
-**Added:** September 18, 2023
-
-#### Ingredients
-
+Ingredients
 - 6 whole heads of garlic
 - Olive oil, as needed
 - Salt, to taste
@@ -26,21 +22,21 @@ parent: Soups, Salads
 - 1 cup water
 - Croutons, for serving
 
-#### Directions
+Directions
 
-##### Prepare the Garlic
+Prepare the Garlic
 1. Preheat oven to 400F
 2. Cut off the tops of each garlic head to expose the cloves.
 3. Place garlic heads on a sheet of aluminum foil, drizzle olive oil and sprinkle salt over the garlic.
 5. Wrap the garlic tightly in the foil and place in a baking tray with sides.
 6. Roast for 40-45 minutes or until the garlic is soft and golden.
 
-##### Prepare Vegetables and Herbs
+Prepare Vegetables and Herbs
 1. While garlic is roasting, dice the onion.
 2. Peel and cube the potato and carrot
 4. Roughly chop rosemary, thyme, and parsley. Set aside parsley for later.
 
-##### Cook the Soup
+Cook the Soup
 1. Heat olive oil in a large pot over medium heat.
 2. Add carrots and potatoes, season with salt, and sauté until slightly softened.
 3. Add onions, cook until softened.
@@ -48,7 +44,7 @@ parent: Soups, Salads
 5. Deglaze the pot with dry white wine and cook until alcohol evaporates.
 6. Stir in butter to emulsify with the vegetables.
 
-##### Combine and Blend
+Combine and Blend
 1. Once garlic is done, cool and then squeeze out the roasted cloves.
 2. Add roasted garlic and Parmesan cheese to the pot.
 3. Pour in chicken stock and water.

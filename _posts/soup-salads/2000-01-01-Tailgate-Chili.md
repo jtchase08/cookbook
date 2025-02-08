@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Tailgate Chili
-parent: Soups, Salads
+category: soups-salads
 ---
-# Tailgate Chili
 
 Yields 12 servings
 

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Crunchy Noodle Salad
-parent: Soups, Salads
+category: soups-salads
 ---
-# Crunchy Noodle Salad
 
 Note: To double the recipe for a larger portion, simply double the
 ingredients, but use 3 packages of Ramen noodles (but only 2 packets of

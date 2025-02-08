@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Tortellini, Spinach, Chicken Soup
-parent: Soups, Salads
+category: soups-salads
 ---
-# Tortellini, Spinach, Chicken Soup
 
 Ingredients
   * 1 medium yellow onion, diced

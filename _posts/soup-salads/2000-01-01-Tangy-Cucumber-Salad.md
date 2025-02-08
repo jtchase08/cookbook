@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Tangy Cucumber Salad
-parent: Soups, Salads
+category: soups-salads
 ---
-# Tangy Cucumber Salad
 
 Ingredients
   * 1/4 cup apple cider vinegar

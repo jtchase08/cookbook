@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
 title: Baked Potato Soup
-parent: Soups, Salads
+category: soups-salads
 ---
-# Baked Potato Soup
 
-**Added:** October 13, 2023
-
-#### Ingredients
+Ingredients
 - 3lb mini yukon gold potatoes, cut into 1” pieces
 - 8 strips cooked bacon, cut into small pieces
 - 2tbsp butter
@@ -25,7 +22,7 @@ parent: Soups, Salads
 - 2 cups cheddar cheese, freshly grated
 - Toppings: cheddar cheese, sour cream, bacon, and green onions
 
-#### Directions
+Directions
 1. In a large pot or dutch oven, cook bacon over medium heat until crispy. Remove with a slotted spoon and set aside. *Carefully* soak up the bacon grease with a paper towel, leaving about 2tbsp behind.
 2. Add in your butter and onion, sautéing for about 5 minutes or until your onions soften. Throw in your garlic and cook for about 30s or until fragrant.
 3. Add in your flour and stir for about 1min
@@ -35,4 +32,4 @@ parent: Soups, Salads
 7. With a potato masher, immersion blender or whatever you have on hand, mash your potatoes until desired consistency.
 8. Serve immediately and top with more cheese, sour cream, bacon, and green onions. Enjoy!
 
-**Source:** [https://www.tiktok.com/@heresyourbite/video/7286946154514861343](https://www.tiktok.com/@heresyourbite/video/7286946154514861343)
+[https://www.tiktok.com/@heresyourbite/video/7286946154514861343](https://www.tiktok.com/@heresyourbite/video/7286946154514861343)

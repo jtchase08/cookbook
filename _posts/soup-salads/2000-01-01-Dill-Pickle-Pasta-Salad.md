@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Dill Pickle Pasta Salad
-parent: Soups, Salads
+category: soups-salads
 ---
-# Dill Pickle Pasta Salad
 
 Ingredients
   * ½ lb dry shell pasta

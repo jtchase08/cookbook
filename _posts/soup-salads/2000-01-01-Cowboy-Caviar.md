@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Cowboy Caviar
-parent: Soups, Salads
+category: soups-salads
 ---
-# Cowboy Caviar
 
 Salad Ingredients
   * 15 oz. can black beans
