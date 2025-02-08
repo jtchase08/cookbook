@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Barbeque Chicken Nachos
-category: appssides
+category: apps-sides
 ---
-# Barbeque Chicken Nachos
 
 General Ingredients
   * 8 ounces of nacho chips

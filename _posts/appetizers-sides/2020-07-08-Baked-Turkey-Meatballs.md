@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Baked Turkey Meatballs"
-category: appssides
+title: Baked Turkey Meatballs
+category: apps-sides
 ---
-
-# Baked Turkey Meatballs
 
 Ingredients
   * 1/3c grated Parmesan cheese
