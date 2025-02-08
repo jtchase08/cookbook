@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Barbeque Chicken Nachos"
-which_category: appssides
+title: Barbeque Chicken Nachos
+category: appssides
 ---
 # Barbeque Chicken Nachos
 
