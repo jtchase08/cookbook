@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Creamy Chicken and Cheese Burritos
-parent: Main Dishes
+category: main
 ---
-# Creamy Chicken and Cheese Burritos
 
 Notes
   * If you plan on eating within a week, you can refrigerate and reheat time will be much quicker. For longer term storage, freeze.

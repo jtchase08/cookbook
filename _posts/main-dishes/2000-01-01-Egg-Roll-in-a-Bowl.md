@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Egg Roll in a Bowl
-parent: Main Dishes
+category: main
 ---
-# Egg Roll in a Bowl
 
 Ingredients
   * 1 tbsp. vegetable oil

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Chicken Bacon Ranch Sandwiches
-parent: Main Dishes
+category: main
 ---
-# Chicken Bacon Ranch Sandwiches
 
 Ingredients
   * 3 chicken breasts boneless skinless

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Crock Pot BBQ Chicken
-parent: Main Dishes
+category: main
 ---
-# Crock Pot BBQ Chicken
 
 Ingredients
   * 1 cup BBQ sauce

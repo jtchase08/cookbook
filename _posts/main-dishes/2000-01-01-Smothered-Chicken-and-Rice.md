@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
 title: Smothered Chicken and Rice
-parent: Main Dishes
+category: main
 ---
-# Smothered Chicken and Rice
-
-November 8, 2023
 
 Ingredients
 - 1½ lbs boneless skinless chicken thighs

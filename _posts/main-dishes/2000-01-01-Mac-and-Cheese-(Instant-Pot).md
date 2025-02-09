@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Mac and Cheese (Instant Pot)
-parent: Main Dishes
+category: main
 ---
-
-# Mac and Cheese (Instant Pot)
 
 Serves 4
 

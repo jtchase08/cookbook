@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Chicken Bacon Ranch Pasta
-parent: Main Dishes
+category: main
 ---
-# Chicken Bacon Ranch Pasta
 
 General Ingredients
   * 8 ounces of penne pasta

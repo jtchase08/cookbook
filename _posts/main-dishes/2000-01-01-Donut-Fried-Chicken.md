@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Donut Fried Chicken
-parent: Main Dishes
+category: main
 ---
-# Donut Fried Chicken
 
 Makes 4 servings
 Total time: 2 hours 50 minutes

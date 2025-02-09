@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Air Fryer Chicken Thighs
-parent: Main Dishes
+category: main
 ---
-# Air Fryer Chicken Thighs
 
 Ingredients
   * 4 boneless chicken thighs

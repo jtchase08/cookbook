@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Baked Spicy Chicken Sandwiches
-parent: Main Dishes
+category: main
 ---
-# Baked Spicy Chicken Sandwiches
 
 Baked Spicy Chicken
   * 1/2 cup breadcrumbs

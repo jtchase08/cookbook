@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Twice Baked Potato Casserole
-parent: Main Dishes
+category: main
 ---
-# Twice Baked Potato Casserole
 
 Ingredients
   * 7 medium red potatoes

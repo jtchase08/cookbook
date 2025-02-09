@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Mac and Cheese (Stovetop)
-parent: Main Dishes
+category: main
 ---
 
-# aka Silky Stovetop Mac and Cheese
+## aka Silky Stovetop Mac and Cheese
 
 RECIPE SERVES 1 AS MAIN DISH, 2-4 AS SIDE DISH
 

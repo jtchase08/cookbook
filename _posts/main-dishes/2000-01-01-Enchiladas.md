@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Lazy Enchiladas
-parent: Main Dishes
+category: main
 ---
-# Lazy Enchiladas
 
 Ingredients
   * 4 frozen burritos

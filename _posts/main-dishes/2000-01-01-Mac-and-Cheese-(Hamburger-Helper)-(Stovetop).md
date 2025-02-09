@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Mac and Cheese (Hamburger Helper) (Stovetop)
-parent: Main Dishes
+category: main
 ---
 
-# aka Hamburger Helper Cheeseburger Mac Copycat
+## aka Hamburger Helper Cheeseburger Mac Copycat
 
 Ingredients
   * 1 pound ground beef

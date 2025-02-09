@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Baked Ziti
-parent: Main Dishes
+category: main
 ---
 
 Ingredients

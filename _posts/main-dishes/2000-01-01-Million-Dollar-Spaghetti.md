@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Million Dollar Spaghetti
-parent: Main Dishes
+category: main
 ---
-# Million Dollar Spaghetti
 
 Ingredients
   * 16 ounces spaghetti noodles

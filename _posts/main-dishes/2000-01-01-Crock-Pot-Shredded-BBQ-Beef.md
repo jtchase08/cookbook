@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Crock Pot Shredded BBQ Beef
-parent: Main Dishes
+category: main
 ---
-# Crock Pot Shredded BBQ Beef
 
 Ingredients
   * 2 - 3 Tbsp packed light brown sugar

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Garlic Noodles
-parent: Main Dishes
+category: main
 ---
-# Garlic Noodles
 
 Ingredients
   * 16oz bucatini pasta

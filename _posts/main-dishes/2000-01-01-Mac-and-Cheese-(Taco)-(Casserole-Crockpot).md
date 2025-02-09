@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Mac and Cheese (Taco) (Casserole Crockpot)
-parent: Main Dishes
+category: main
 ---
 
-# aka Taco Mac Casserole
+## aka Taco Mac Casserole
 
 Ingredients
   * 2 cups uncooked macaroni

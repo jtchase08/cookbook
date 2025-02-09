@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Linguini Alfredo
-parent: Main Dishes
+category: main
 ---
-# Linguini Alfredo
 
 Notes
   * This is a doubled recipe. Cut in half to serve 4

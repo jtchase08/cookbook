@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Butter Chicken
-parent: Main Dishes
+category: main
 ---
-
-# Butter Chicken
 
 RECIPE SERVES 2 AS MAIN DISH, 4 AS SIDE DISH
 

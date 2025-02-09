@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Crunchy Chicken Ramen Stir Fry
-parent: Main Dishes
+category: main
 ---
-# Crunchy Chicken Ramen Stir Fry
 
 Stir Fry Sauce Ingredients
   * 2 Tbsp soy sauce

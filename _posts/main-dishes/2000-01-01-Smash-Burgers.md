@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Smash Burgers
-parent: Main Dishes
+category: main
 ---
-# Smash Burger 
 
 Ingredients
   * Vegetable oil (for pan)

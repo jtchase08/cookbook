@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Mississippi Pot Roats Sliders
-parent: Main Dishes
+category: main
 ---
-# Mississippi Pot Roats Sliders
 
 Pot Roast Ingredients
   * 1 3-4lb boneless beef roast, your choice of cut (chuck, sirloin tip, rump)

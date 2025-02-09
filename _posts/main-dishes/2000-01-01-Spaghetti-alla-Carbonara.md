@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Spaghetti alla Carbonara
-parent: Main Dishes
+category: main
 ---
-# Spaghetti alla Carbonara
 
 Ingredients
   * Salt

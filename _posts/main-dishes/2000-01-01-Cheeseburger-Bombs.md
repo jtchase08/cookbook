@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Cheeseburger Bombs
-parent: Main Dishes
+category: main
 ---
-# Cheeseburger Bombs
 
 Ingredients
   * 1 pound of Hamburg or ground turkey

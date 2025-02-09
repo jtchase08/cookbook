@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Baked Chicken Parmesan
-parent: Main Dishes
+category: main
 ---
-# Baked Chicken Parmesan
 
 Ingredients
   * 2 8oz chicken breasts, sliced lengthwise to make 4

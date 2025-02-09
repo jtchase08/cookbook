@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: page
 title: Slow Cooker Chili
-parent: Main Dishes
+category: main
 ---
 
-# Slow Cooker Chili
-
-SERVES 8
+Serves 8
 
 Ingredients
 - 1 Tbsp olive oil
