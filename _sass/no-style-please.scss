@@ -37,6 +37,16 @@ body {
   overflow-wrap: break-word;
 }
 
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
 .post-meta { text-align: right; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
@@ -47,7 +57,7 @@ p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
 
-*:target { background: #6272A4 }
+*:target { background: yellow; }
 
 .w {
   max-width: 640px;

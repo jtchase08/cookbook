@@ -36,6 +36,16 @@ body {
   min-height: 100%;
   overflow-wrap: break-word; }
 
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
 .post-meta {
   text-align: right; }
 
@@ -52,7 +62,7 @@ li {
   margin: 0.4rem 0; }
 
 *:target {
-  background: #6272A4; }
+  background: yellow; }
 
 .w {
   max-width: 640px;
