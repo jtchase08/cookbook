@@ -1,6 +1,6 @@
 title: Joe and Makayla's Cookbook # name of the site
 author: Joe Chase # name of site's author
-email: jtchase08@gmail.com # email of site's author
+email: joe@thechases.me # email of site's author
 url: https://www.thechases.me # root address of the site
 baseurl: "/cookbook" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: Most of the recipes in this cookbook weren't created by us. When that's the case, a link to the original recipe or credit will be provided. This collection of recipes is simply a way for us to share recipes with friends in a way that's convenient for them. # description of the site
