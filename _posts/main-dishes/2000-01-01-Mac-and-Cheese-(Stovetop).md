@@ -8,6 +8,8 @@ category: main
 
 RECIPE SERVES 1 AS MAIN DISH, 2-4 AS SIDE DISH
 
+~1000 calories for entire pot
+
 Ingredients
   * 1/4 lb (113 g) dry elbow pasta 
   * 1/3-1/2 cup (80-120 ml) milk 
