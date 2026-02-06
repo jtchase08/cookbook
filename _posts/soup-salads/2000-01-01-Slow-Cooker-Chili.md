@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slow Cooker Chili
-category: soup-salads
+category: soups-salads
 ---
 
 Serves 8
