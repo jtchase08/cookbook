@@ -4,7 +4,7 @@ title: Instant Pot Chili
 category: soups-salads
 ---
 
-Yields 8 servings
+Yields 12 servings
 
 1.27kcal/gram, toppings not included
 
@@ -29,12 +29,16 @@ Ingredients
   * 1 Tablespoon Garlic, minced 
 
 Directions
-  1. Turn instant pot to sauté and add the bacon, cooking until crisp, then remove to paper towel lined plate.
-  2. Add onions and peppers and cook until tender (3-5 mins).
+  1. With instant pot on sauté, add the bacon and cook until crisp, then remove (don't drain grease).
+  2. Add onions and peppers and sauté until tender (3-5 mins).
   3. Add the meat and cook until browned.
   4. Add all of the remaining ingredients and the bacon and stir to combine.
   5. Turn the instant pot to chili (if you don't have a "chili" setting, use the "manual-high" setting) and cook for 18-20 minutes, then quick release.
-  6. Serve with limes, sour cream, shredded cheese
+
+Serve with
+* lime
+* sour cream
+* shredded cheese
   
-  Modified version of this receipe:
+  This is a modified version of the following receipe:
   <https://ohsweetbasil.com/instant-pot-award-winning-chili-recipe/#wprm-recipe-container-52423>
